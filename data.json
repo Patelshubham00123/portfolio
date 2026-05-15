@@ -1,0 +1,124 @@
+{
+  "profile": {
+    "name": "Patel Shubham",
+    "email": "patelshubham09123@gmail.com",
+    "location": "Kadi, Gujarat",
+    "bio": "Developer, Editor, Gamer & Tech Enthusiast | PC Repair & Build Expert",
+    "image": "/images/profile.jpg"
+  },
+  "professions": [
+    {
+      "title": "Web Developer",
+      "icon": "💻"
+    },
+    {
+      "title": "Video Editor",
+      "icon": "🎬"
+    },
+    {
+      "title": "Gamer",
+      "icon": "🎮"
+    },
+    {
+      "title": "PC Technician",
+      "icon": "🔧"
+    },
+    {
+      "title": "Tech Enthusiast",
+      "icon": "⚡"
+    }
+  ],
+  "skills": {
+    "frontend": ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "Vite"],
+    "backend": ["Node.js", "Express", "REST APIs", "MongoDB", "Firebase"],
+    "tools": ["Git", "VS Code", "Figma", "Adobe Creative Suite"],
+    "other": ["Video Editing", "PC Building", "Hardware Troubleshooting"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "Full-stack e-commerce solution with React frontend and Node.js backend",
+      "image": "/images/projects/ecommerce.jpg",
+      "link": "https://github.com",
+      "tags": ["React", "Node.js", "MongoDB"]
+    },
+    {
+      "id": 2,
+      "title": "Video Streaming App",
+      "description": "Streaming platform with smooth playback and dynamic buffering",
+      "image": "/images/projects/streaming.jpg",
+      "link": "https://github.com",
+      "tags": ["React", "Express", "FFmpeg"]
+    },
+    {
+      "id": 3,
+      "title": "Portfolio Website",
+      "description": "This portfolio - built with React, Node.js and advanced animations",
+      "image": "/images/projects/portfolio.jpg",
+      "link": "https://github.com",
+      "tags": ["React", "Express", "Framer Motion"]
+    }
+  ],
+  "hobbies": [
+    {
+      "name": "Gaming",
+      "time": "15+ hours/week",
+      "icon": "🎮",
+      "description": "Competitive games like NFS, GTA, valorant"
+    },
+    {
+      "name": "Video Editing",
+      "time": "10+ hours/week",
+      "icon": "🎬",
+      "description": "Creating dynamic videos and thumbnails"
+    },
+    {
+      "name": "PC Building & Repair",
+      "time": "8+ hours/week",
+      "icon": "🔧",
+      "description": "Hardware upgrades and troubleshooting"
+    }
+  ],
+  "apps": [
+    {
+      "name": "Instagram",
+      "icon": "📱",
+      "url": "https://instagram.com",
+      "keywords": ["ig", "insta", "instagram"]
+    },
+    {
+      "name": "GitHub",
+      "icon": "💻",
+      "url": "https://github.com",
+      "keywords": ["code", "github", "repo"]
+    },
+    {
+      "name": "Twitter",
+      "icon": "🐦",
+      "url": "https://twitter.com",
+      "keywords": ["tweet", "twitter", "x"]
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "💼",
+      "url": "https://linkedin.com",
+      "keywords": ["linkedin", "professional", "job"]
+    },
+    {
+      "name": "Discord",
+      "icon": "🎧",
+      "url": "https://discord.com",
+      "keywords": ["discord", "chat", "voice"]
+    }
+  ],
+  "bots": {
+    "keywords": {
+      "nfs": { "app": "Gaming Store", "link": "https://www.need-for-speed.com" },
+      "gta": { "app": "Rockstar Games", "link": "https://www.rockstargames.com" },
+      "valorant": { "app": "Valorant", "link": "https://valorant.com" },
+      "code": { "app": "GitHub", "link": "https://github.com/patelshubham" },
+      "rdr": { "app": "Red Dead Redemption", "link": "https://www.rockstargames.com/reddeadredemption" }
+    }
+  }
+}
