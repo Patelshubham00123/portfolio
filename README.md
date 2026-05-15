@@ -88,7 +88,7 @@ Edit `data.json` to change:
 
 ## 📞 Contact
 
-📧 Email: patelshubham09123@gmail.com  
+📧 Email: patelshubham00123@gmail.com  
 📍 Location: Kadi, Gujarat
 
 ---
